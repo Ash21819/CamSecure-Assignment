@@ -1,0 +1,10 @@
+import Header from "./Header";
+import Hero from "./Hero";
+import Services from "../Pages/Services";
+import WhyChooseUs from "./WhyChooseUs";
+import Brands from "./Brands";
+import FAQ from "./FAQ";
+import Footer from "./Footer";
+import Process from "./Process";
+import Cards from "./Cards";
+export { Header, Hero, Services, WhyChooseUs, Brands, FAQ, Footer, Process, Cards };
